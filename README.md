@@ -14,5 +14,5 @@ Updated in Mar 2022, based on [Sep 2016's version](https://library.kaust.edu.sa/
 ## Usage
 Upload to Overleaf, and it should just work. (Tested using Compiler pdfLaTeX, Tex Live version 2021.)
 
-You may also refer to the original [Read Me.txt](Read Me.txt).
+You may also refer to the original [ReadMe.txt](ReadMe.txt).
 
