@@ -5,7 +5,7 @@ Updated in Mar 2022, based on [Sep 2016's version](https://library.kaust.edu.sa/
 [Preview](thesis.pdf)
 
 ## Modifications
-1. Extract sections into individual pages (instead of one giant `.tex` file) 
+1. Extract sections into individual pages and structured folders (instead of one giant folder with multiple`.tex` files) 
 2. Fix the indentation of Table of Content entries (Subsections should not be indented separately, and they can continue under main sections.)
 3. Add the entry of Table of Content into Table of Content
 4. Remove the dot in the header of Acknowledgements
